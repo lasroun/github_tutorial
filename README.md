@@ -71,7 +71,7 @@
 3. Envoyez vos modifications sur GitHub en utilisant la commande suivante :
 
    ```sh
-   git push -u origin master
+   git push -u origin main
    ```
 
    Cette commande envoie votre branche "master" (la branche principale de votre projet) vers le dépôt GitHub.
